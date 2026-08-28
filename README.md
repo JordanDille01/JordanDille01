@@ -20,7 +20,7 @@ I'm a Business Administration graduate from California State University, Fresno,
 * **Interactive Dashboards (Power BI):** Designing star schema data models, writing custom DAX measures, and creating intuitive user visual reports.
 * **Spreadsheet & Financial Modeling:** Building structured Excel workbooks to analyze operational performance, forecast key drivers, and evaluate trends.
 
-* (Projects currently in development and will be linked here soon!)*
+* (Projects currently in development and will be linked here soon!)
 
 ---
 

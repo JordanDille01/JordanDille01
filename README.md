@@ -7,8 +7,8 @@ I'm a Business Administration graduate from California State University, Fresno,
 
 ### 🛠️ Skills & Tools
 
-**Languages & Querying:** SQL (MySQL) · Python (pandas, openpyxl)
-**Data Warehousing & Cloud:** Snowflake
+**Languages & Querying:** SQL (MySQL) · Python (pandas, openpyxl)  
+**Data Warehousing & Cloud:** Snowflake  
 **Visualization & BI:** Power BI · DAX · Data Modeling (Star/Snowflake Schemas)  
 **Analysis & Spreadsheet Modeling:** Advanced Excel · Financial & Data Modeling · Statistical Analysis  
 

@@ -1,28 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Jordan 👋
 
-## Data Analyst
-
+### 📊 Data Analyst
 I'm a Business Administration graduate from California State University, Fresno, focused on data analytics and turning data into clear insights that support better business decisions.
+
+---
 
 ### 🛠️ Skills & Tools
 
-SQL · MySQL · Excel · Power BI · DAX · Python · Snowflake
+**Languages & Querying:** SQL (MySQL) · Python (pandas, openpyxl)  
+**Visualization & BI:** Power BI · DAX · Data Modeling (Star/Snowflake Schemas)  
+**Analysis & Spreadsheet Modeling:** Advanced Excel · Financial & Data Modeling · Statistical Analysis  
 
-### 📊 What You'll Find Here
+---
 
-This profile showcases practical data analytics projects involving:
+### 📂 Featured Portfolio Focus
 
-- Data cleaning and preparation
-- SQL analysis
-- Excel analysis and modeling
-- Power BI dashboards and reporting
-- Python data analysis
-- Business insights and recommendations
+* **Exploratory Data Analysis & SQL:** Querying structured datasets, joining multiple tables, aggregating metrics, and cleaning raw data to answer business questions.
+* **Interactive Dashboards (Power BI):** Designing star schema data models, writing custom DAX measures, and creating intuitive user visual reports.
+* **Spreadsheet & Financial Modeling:** Building structured Excel workbooks to analyze operational performance, forecast key drivers, and evaluate trends.
 
-### 🎯 Currently
+* (Projects currently in development and will be linked here soon!)*
 
-Building a portfolio of practical analytics projects while continuing to strengthen my skills in SQL, Excel, Power BI, Python, and business intelligence.
+---
+
+### 🎯 Currently Working On
+* Building end-to-end data analytics portfolio projects.
+* Deepening practical skills in SQL query optimization, Power BI modeling, and Python data manipulation.
+
+---
 
 ### 🔗 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/jordandille01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordandille01)

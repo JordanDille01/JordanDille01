@@ -10,14 +10,14 @@ I'm a Business Administration graduate from California State University, Fresno,
 **Languages & Querying:** SQL (MySQL) · Python (pandas, openpyxl)  
 **Data Warehousing & Cloud:** Snowflake  
 **Visualization & BI:** Power BI · DAX · Data Modeling (Star/Snowflake Schemas)  
-**Analysis & Spreadsheet Modeling:** Advanced Excel · Financial & Data Modeling · Statistical Analysis  
+**Analysis & Spreadsheet Modeling:** Excel · Financial & Data Modeling · Statistical Analysis  
 
 ---
 
 ### 📂 Featured Portfolio Focus
 
 * **Exploratory Data Analysis & SQL:** Querying structured datasets, joining multiple tables, aggregating metrics, and cleaning raw data to answer business questions.
-* **Interactive Dashboards (Power BI):** Designing star schema data models, writing custom DAX measures, and creating intuitive user visual reports.
+* **Interactive Dashboards (Power BI):** Designing star schema data models, writing custom DAX measures, and creating intuitive, business-focused dashboards and reports.
 * **Spreadsheet & Financial Modeling:** Building structured Excel workbooks to analyze operational performance, forecast key drivers, and evaluate trends.
 
 * (Projects currently in development and will be linked here soon!)

@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**JordanDille01/JordanDille01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst
 
-Here are some ideas to get you started:
+I'm a Business Administration graduate from California State University, Fresno, focused on data analytics and turning data into clear insights that support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+SQL · MySQL · Excel · Power BI · DAX · Python · Snowflake
+
+### 📊 What You'll Find Here
+
+This profile showcases practical data analytics projects involving:
+
+- Data cleaning and preparation
+- SQL analysis
+- Excel analysis and modeling
+- Power BI dashboards and reporting
+- Python data analysis
+- Business insights and recommendations
+
+### 🎯 Currently
+
+Building a portfolio of practical analytics projects while continuing to strengthen my skills in SQL, Excel, Power BI, Python, and business intelligence.
+
+### 🔗 Connect With Me
+
+[LinkedIn](www.linkedin.com/in/jordandille01)

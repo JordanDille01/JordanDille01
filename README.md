@@ -33,4 +33,4 @@ I'm a Business Administration graduate from California State University, Fresno,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordandille01)
 
-* **Email:** [jordandille22@gmail.com](mailto:jordandille22@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jordandille22@gmail.com)
